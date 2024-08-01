@@ -1,6 +1,6 @@
 from PIL import Image, ImageDraw, ImageEnhance
 import json,os,random
-from TimBot import Items
+from TDOA import Items
 
 SIZE = 1
 
